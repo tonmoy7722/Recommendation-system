@@ -5,6 +5,5 @@ E-commerce-based Smart Recommendation System using element-by-element collaborat
 
 
 
-#Our paper has been published!!
-Paper is now available on IEEE Xplore
-[Paper Link](https://doi.org/10.1109/IC3IoT60841.2024.10550386)
+#Our paper has been published in IEEE Xplore!!
+# [Paper Link](https://doi.org/10.1109/IC3IoT60841.2024.10550386)
